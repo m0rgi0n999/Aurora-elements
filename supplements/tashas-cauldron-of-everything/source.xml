@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/Tashas-Cauldron-of-Everything/source.xml" />
+		</update>
+	</info>
+	<element name="Tasha's Cauldron of Everything" type="Source" source="Core" id="ID_WOTC_SOURCE_TASHAS_CAULDRON_OF_EVERYTHING">
+		<description>
+			<![CDATA[<p><strong>Explore a wealth of new rules options for both players and Dungeon Masters in this supplement for the world’s greatest roleplaying game.</strong></p><p>The wizard Tasha, whose great works include the spell Tasha's hideous laughter, has gathered bits and bobs of precious lore during her illustrious career as an edventurer. Her enemies wouldn't want these treasured secrets scattered across the multiverse, so in defiance, she has collected and codified these tidbits for the enrichment of all.</p><p>Baked into this book are rules options for all the character classes in the <i>Player's Handbook</i>, including new subclasses. Thrown in for good measure is the artificer class, a master of magical invention. And this witch's brew wouldn't be complete without its new artifacts, spellbook options, spells for both player characters and monsters, magical tattoos, group patrons, and other tasty goods.</p><p>Tasha has never been shy about sharing her keen insights, and this book is sprinkled with the archmage's musing on everything from her wizardly rivals to the nature of the multiverse. Herin, she offers a taste of great power that awaits adventurers everywhere!</p></strong></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">XGTE</set>
+			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything</set>
+			<set name="image"></set>
+			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
+			<set name="errata"></set>
+			<set name="official">true</set>
+			<set name="supplement">true</set>
+			<set name="release">20171121</set>
+		</setters>
+	</element>
+</elements>
